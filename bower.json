@@ -1,0 +1,9 @@
+{
+	"name": "angular-random-string",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"angular": "1.2.x",
+		"angular-mocks": "~1.2.x"
+	}
+}

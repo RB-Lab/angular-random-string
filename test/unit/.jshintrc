@@ -1,0 +1,5 @@
+{
+    "predef": ["describe", "beforeEach", "spyOn", "expect", "it", "module", "inject", "jasmine"],
+    "browser": true,
+	"curly": false
+}

@@ -1,0 +1,14 @@
+{
+	"name": "angular-random-string",
+	"version": "0.0.1",
+	"private": false,
+	"scripts": {
+		"test": "karma start test/karma.conf.js"
+	},
+	"dependencies": {
+
+	},
+	"devDependencies": {
+		"karma": "~0.10"
+	}
+}
