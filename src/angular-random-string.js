@@ -1,6 +1,6 @@
 // originally insprired by https://github.com/klughammer/node-randomstring
 
-angular.module('randomString', []).factory('randomString', ['$window', function randomStringFactory(w){
+angular.module('angular-random-string', []).factory('randomString', ['$window', function randomStringFactory(w){
 
 	var chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
 	var Math = w.Math;

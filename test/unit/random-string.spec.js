@@ -1,5 +1,5 @@
-describe('randomString service', function() {
-	beforeEach(module('randomString'));
+describe('angular-random-string service', function() {
+	beforeEach(module('angular-random-string'));
 
 	var mockWindow;
 
