@@ -1,0 +1,8 @@
+{
+	"undef": true,
+	"unused": true,
+	"maxcomplexity": 11,
+	"browser": true,
+	"curly": false,
+	"predef": ["angular"]
+}
