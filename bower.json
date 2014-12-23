@@ -1,9 +1,27 @@
 {
 	"name": "angular-random-string",
+	"description": "Angular service that generates a random alphanumeric string certain length.",
 	"version": "0.0.1",
 	"private": false,
+	"license": "MIT",
+	"main": "src/angular-random-string.js",
+	"keywords": [
+		"angular",
+		"string",
+		"random",
+		"alphanumeric"
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"lib",
+		"test/",
+		"package.json"
+	],
 	"dependencies": {
-		"angular": "1.2.x",
+		"angular": "1.2.x"
+	},
+	"devDependencies": {
 		"angular-mocks": "~1.2.x"
 	}
 }
