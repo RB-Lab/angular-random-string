@@ -3,6 +3,11 @@ angular-random-string
 
 Angular service that generates a random alphanumeric string certain length.
 
+## install
+
+````bash
+	$ bower install --save angular-random-string 
+````
 
 ##usage
 
