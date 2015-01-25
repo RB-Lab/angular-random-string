@@ -1,6 +1,6 @@
 {
 	"name": "angular-random-string",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"private": false,
 	"scripts": {
 		"test": "karma start test/karma.conf.js"

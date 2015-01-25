@@ -1,7 +1,7 @@
 {
 	"name": "angular-random-string",
 	"description": "Angular service that generates a random alphanumeric string certain length.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"private": false,
 	"license": "MIT",
 	"main": "src/angular-random-string.js",

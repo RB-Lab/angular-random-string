@@ -20,7 +20,7 @@ Angular service that generates a random alphanumeric string certain length.
 2. Add to your module
 
 ```javascript
-	var app = angular.module('MyApp', ['angular-random-string']);
+	var app = angular.module('MyApp', ['angularRandomString']);
 ```
 
 3. Inject to controller/service/etc.
