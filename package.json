@@ -9,6 +9,7 @@
 
 	},
 	"devDependencies": {
-		"karma": "~0.10"
+		"karma": "~0.10",
+		"karma-phantomjs-launcher": "~0.1"
 	}
 }
